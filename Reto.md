@@ -1,6 +1,6 @@
 ## Reto de Programación Unidad 3    
 
-## Título del Reto: Sistema de Monitoreo de Vuelo para un Cohete Suborbital    
+## Sistema de Monitoreo de Vuelo para un Cohete Suborbital    
   
 ### **Contexto de Ingeniería:**    
   
