@@ -1,1 +1,2 @@
-<img width="1029" height="1422" alt="reto1 drawio" src="https://github.com/user-attachments/assets/0a96c978-1824-4a24-b9db-b42a7be5b257" />
+<img width="750" height="2292" alt="yafin drawio" src="https://github.com/user-attachments/assets/a7e7323d-f6ec-4328-8589-07d9d4f25467" />
+
